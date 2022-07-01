@@ -26,7 +26,7 @@ python train.py --config configs/scen/utzppos/scen_cw.yml
 python train.py --config configs/scen/cgqa/scen_cw.yml
 ```
 
-## References
+# References
 If you use this code, please cite
 ```
 @inproceedings{li2022siamese,
