@@ -7,6 +7,8 @@ environment.yml
 
 ## **Data Preparation**
 **Mit-States**: Download from http://wednesday.csail.mit.edu/joseph_result/state_and_transformation/release_dataset.zip<br>
+**Utzappos**: Download from http://vision.cs.utexas.edu/projects/finegrained/utzap50k/ut-zap50k-images.zip<br>
+**C-GQA**: Download from https://s3.mlcloud.uni-tuebingen.de/czsl/cgqa-updated.zip<br>
 
 # Training
 ## **MIT-States**
