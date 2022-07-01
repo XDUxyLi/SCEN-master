@@ -4,3 +4,7 @@ Code For CVPR2022 paper "Siamese Contrastive Embedding Network for Compositional
 # Usage
 ## **Requirements**<br>
 environment.yml
+
+## **Data Preparation**
+bash ./utils/download_data.sh DATA_ROOT<br>
+mkdir logs
