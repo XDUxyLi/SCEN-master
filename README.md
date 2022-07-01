@@ -7,3 +7,13 @@ environment.yml
 
 ## **Data Preparation**
 ```bash ./utils/download_data.sh DATA_ROOT```
+
+# Training
+## **MIT-States**
+```python train.py --config configs/scen/mit/scen_cw.yml```<br>
+
+## **Ut-Zappos**
+```python train.py --config configs/scen/utzppos/scen_cw.yml```<br>
+
+## **C-GQA**
+```python train.py --config configs/scen/cgqa/scen_cw.yml```<br>
