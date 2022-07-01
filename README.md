@@ -12,7 +12,9 @@ environment.yml
 
 # Training
 ## **MIT-States**
-```python train.py --config configs/scen/mit/scen_cw.yml```<br>
+```
+python train.py --config configs/scen/mit/scen_cw.yml
+```
 
 ## **Ut-Zappos**
 ```python train.py --config configs/scen/utzppos/scen_cw.yml```<br>
