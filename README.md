@@ -10,14 +10,18 @@ environment.yml
 **Utzappos**: Download from http://vision.cs.utexas.edu/projects/finegrained/utzap50k/ut-zap50k-images.zip<br>
 **C-GQA**: Download from https://s3.mlcloud.uni-tuebingen.de/czsl/cgqa-updated.zip<br>
 
-# Training
+# RUN
 ## **MIT-States**
 ```
 python train.py --config configs/scen/mit/scen_cw.yml
 ```
 
 ## **Ut-Zappos**
-```python train.py --config configs/scen/utzppos/scen_cw.yml```<br>
+```
+python train.py --config configs/scen/utzppos/scen_cw.yml
+```
 
 ## **C-GQA**
-```python train.py --config configs/scen/cgqa/scen_cw.yml```<br>
+```
+python train.py --config configs/scen/cgqa/scen_cw.yml
+```
