@@ -6,7 +6,7 @@ Code For CVPR2022 paper "Siamese Contrastive Embedding Network for Compositional
 environment.yml
 
 ## **Data Preparation**
-```bash ./utils/download_data.sh DATA_ROOT```
+**Mit-States**: Download from http://wednesday.csail.mit.edu/joseph_result/state_and_transformation/release_dataset.zip<br>
 
 # Training
 ## **MIT-States**
