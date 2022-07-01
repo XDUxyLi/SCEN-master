@@ -25,3 +25,15 @@ python train.py --config configs/scen/utzppos/scen_cw.yml
 ```
 python train.py --config configs/scen/cgqa/scen_cw.yml
 ```
+
+## References
+If you use this code, please cite
+```
+@inproceedings{li2022siamese,
+  title={Siamese Contrastive Embedding Network for Compositional Zero-Shot Learning},
+  author={Li, Xiangyu and Yang, Xu and Wei, Kun and Deng, Cheng and Yang, Muli},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={9326--9335},
+  year={2022}
+}
+```
