@@ -1,5 +1,6 @@
 # SCEN
-Code For CVPR2022 paper "Siamese Contrastive Embedding Network for Compositional Zero-Shot Learning"
+Code For CVPR2022 paper "Siamese Contrastive Embedding Network for Compositional Zero-Shot Learning"<br>
+**Paper**: https://arxiv.org/abs/2206.14475
 
 ## Usage
 ### **Requirements**<br>
